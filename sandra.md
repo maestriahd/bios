@@ -9,3 +9,4 @@ Egresada del programa de arte de la universidad de los Andes, su trabajo plásti
 * Viajes
 * Comida
 * Artes marciales
+* Cine
