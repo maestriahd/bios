@@ -19,6 +19,6 @@ En algún lugar de la **mancha** (de _smog_ bogotano)
   * Abstracto
 
 ####Top 3 de músicos fav :octocat:
-1. Roxette :+1: -[x] \(Follow: [En Twitter](http://www.twitter.com/therealroxette)\)
+1. Roxette :+1: - [x] \(Follow: [GitHub](http://www.twitter.com/therealroxette)\)
 2. Madonna :metal:
-3. Kylie Minogue
+3. Kylie Minogue 
