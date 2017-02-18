@@ -11,4 +11,4 @@ Una muestra de sus trabajos es [4 Ríos](http://4rios.co), un proyecto que narra
 
 1. Un cómic interactivo disponible al hacer [clic aquí] (http://4rios.co/elnaya/)
 2. Un aplicativo web [disponible al hacer aquí] (http://4rios.co/elnaya/flujo/)
-3. Una maqueta interactivas con realidad aumentada
+3. Una maqueta interactiva con realidad aumentada
