@@ -8,4 +8,17 @@ Académicamente se ha interesado en la historia de los medios y contenidos gener
 Cazador de canciones extrañas y creativo que le hace todo y nada al tiempo.
 
 ### Lugar
-En algún lugar de la mancha (de smog bogotano)
+En algún lugar de la **mancha** (de _smog_ bogotano)
+
+####Lo que me gusta
+* Comer
+* Dormir
+* Dibujar, dibujar y dibujar
+  * Muñequitos
+  * Figuritas
+  * Abstracto
+
+####Top 3 de músicos fav :octocat:
+1. Roxette :+1: - [x] \(Follow: [GitHub](http://www.twitter.com/therealroxette)\)
+2. Madonna :metal:
+3. Kylie Minogue 
