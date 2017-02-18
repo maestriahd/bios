@@ -1,7 +1,5 @@
 # Camilo Martínez
 
-![Camilo trabajando](http://i.giphy.com/JIX9t2j0ZTN9S.gif)
-
 ### Lugar
 Vive y trabaja en Bogotá, Colombia
 
