@@ -17,3 +17,10 @@ Camilo Martinez es se forma como _artista_ en la Universidad Nacional de Colombi
 * Humanidades Digitales
 * web
 * Gifs animados de gatos
+
+### Experiencia
+
+* Una vez hice una torta de chocolate
+* Otra vez monte en cicla sin usar las manos
+* Apareci en television
+
